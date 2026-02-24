@@ -14,7 +14,7 @@ const Hero = () => {
           {/*    */}
           <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className='text-[#915eff]'>Abdurrahman</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100 `}>
-          Software developer specializing in <br className='sm:block hidden'/> secure backend systems and web server development. <br className='sm:block hidden'/>using C++, Node.js, and Java, with hands-on experience in RESTful APIs and real-time systems.
+          Software developer focused <br className='sm:block hidden'/> on secure backend systems, REST APIs, <br className='sm:block hidden'/> and real-time applications using C++, Node.js, and Java.
           </p>
         </div>
       </div>
